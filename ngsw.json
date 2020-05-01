@@ -1,0 +1,94 @@
+{
+  "configVersion": 1,
+  "timestamp": 1588335883644,
+  "index": "/chatapp/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/chatapp/favicon.ico",
+        "/chatapp/index.html",
+        "/chatapp/main.83e377b69cb260095b18.js",
+        "/chatapp/polyfills.e5525534c12abc4d775c.js",
+        "/chatapp/runtime.ec2944dd8b20ec099bf3.js",
+        "/chatapp/scripts.df7e8dbd7d7138e1db30.js",
+        "/chatapp/styles.21bd28d930e82abf4534.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/chatapp/assets/._.gitkeep",
+        "/chatapp/assets/._telegram.jpg",
+        "/chatapp/assets/appconfig.json",
+        "/chatapp/assets/group.png",
+        "/chatapp/assets/icons/icon-128x128.png",
+        "/chatapp/assets/icons/icon-144x144.png",
+        "/chatapp/assets/icons/icon-152x152.png",
+        "/chatapp/assets/icons/icon-192x192.png",
+        "/chatapp/assets/icons/icon-384x384.png",
+        "/chatapp/assets/icons/icon-512x512.png",
+        "/chatapp/assets/icons/icon-72x72.png",
+        "/chatapp/assets/icons/icon-96x96.png",
+        "/chatapp/assets/microsoft.cognitiveservices.speech.sdk.bundle-min.js",
+        "/chatapp/assets/person.jpg",
+        "/chatapp/assets/telegram.jpg",
+        "/chatapp/assets/user.png",
+        "/chatapp/assets/whatsapp-old.jpg",
+        "/chatapp/assets/whatsapp.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/chatapp/assets/._.gitkeep": "36dfed64b95c28cf63cce63da3d153cba020a88b",
+    "/chatapp/assets/._telegram.jpg": "d1abd2fbdaf9485ac21e8161edbf1ae86cb86644",
+    "/chatapp/assets/appconfig.json": "2f6e1e042e3d822b56b35e6a0ff2329cc3e14573",
+    "/chatapp/assets/group.png": "018a2c8a009863a0fc9d6d2db55cb74997bf2f8e",
+    "/chatapp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/chatapp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/chatapp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/chatapp/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/chatapp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/chatapp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/chatapp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/chatapp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/chatapp/assets/microsoft.cognitiveservices.speech.sdk.bundle-min.js": "b8573a2978b887eb34abb7a58d342a5262b794d7",
+    "/chatapp/assets/person.jpg": "ba6f0b7b78c9fc5e16504ae00d0dc0b07bad6299",
+    "/chatapp/assets/telegram.jpg": "ba88695bd15d89406345ef56f75db4b39adeb7cd",
+    "/chatapp/assets/user.png": "823e2fac4ca5919e130b17ef3fc7603d3d1daf8f",
+    "/chatapp/assets/whatsapp-old.jpg": "54fad05e180dd35bb68b3f59cd057716b2d937a0",
+    "/chatapp/assets/whatsapp.jpg": "0c19ca4d82c52021ad00572a0755eff278ad1fb0",
+    "/chatapp/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/chatapp/index.html": "fbd1a36c99ad1d7d2a23ba4cc2a437a72ae91af3",
+    "/chatapp/main.83e377b69cb260095b18.js": "13c6db7bbeb6548e5063527b1111618910e69a3c",
+    "/chatapp/polyfills.e5525534c12abc4d775c.js": "df37fb9005533e7beafa8777055b120733793167",
+    "/chatapp/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/chatapp/scripts.df7e8dbd7d7138e1db30.js": "95d919c53f0d845bb8c397fea2ae8a60b2375c68",
+    "/chatapp/styles.21bd28d930e82abf4534.css": "cca1770e82b7eb6e181770fcb4e01f1570972304"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
